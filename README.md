@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Noche de tormenta interna |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-tormenta-interna/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Noche de tormenta interna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-tormenta-interna/) |
+| **Get License** | [Commercial Licensing for Noche de tormenta interna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-tormenta-interna/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Esta noche la luna sabe lo que yo te haría
-> Perdidos en Madrid hasta que llegue el nuevo día
-> Tú tienes ese fuego que la calle encendería
-> Dime si te atreves a vivir mi fantasía
+> Bailamos entre llamas y cristal
+> Tu piel con la noche se vuelve fatal
+> El eco de tu nombre en mi ritual
+> Sayed te canta hasta el amanecer
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
