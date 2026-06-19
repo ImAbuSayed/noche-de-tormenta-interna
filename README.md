@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-tormenta-interna/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Noche de tormenta interna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-tormenta-interna/) |
+| **Get License** | [Official Music Licensing for Noche de tormenta interna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-tormenta-interna/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `73216e20c85bc69163497683bf54cd640d9e224008b5f28e15652e71ca1a5d7b` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `b693a53635ff0ffc55ffd38b9577d920deb79c841c2cc57afacaa155dc95fe3d` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
