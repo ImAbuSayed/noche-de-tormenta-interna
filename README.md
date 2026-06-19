@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-tormenta-interna/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Noche de tormenta interna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-tormenta-interna/) |
+| **Get License** | [Get License For Noche de tormenta interna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-tormenta-interna/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esta noche la luna sabe lo que yo te haría
+> Perdidos en Madrid hasta que llegue el nuevo día
+> Tú tienes ese fuego que la calle encendería
+> Dime si te atreves a vivir mi fantasía
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
