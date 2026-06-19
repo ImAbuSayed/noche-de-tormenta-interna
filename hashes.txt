@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Noche de tormenta interna
+
+This log tracks the cryptographic history and versioning for the song **Noche de tormenta interna** (noche-de-tormenta-interna).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T01:16:49.189471 | `v1` | `73216e20c85bc69163497683bf54cd640d9e224008b5f28e15652e71ca1a5d7b` | `a438dd658c1f0707131d151b3856c6386a1fe4ba3c35e59a210eb03ff351dde9` | `2026-06-20_noche-de-tormenta-interna-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
